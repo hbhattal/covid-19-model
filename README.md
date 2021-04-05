@@ -1,1 +1,1 @@
-# THE ROLE OF AGE AND INFECTION ASCERTAINMENT IN CHARACTERIZING THE DYNAMICS OF THE COVID-19 EPIDEMIC IN BRITISH COLUMBIA
+# The role of age and infection ascertainment in the COVID-19 epidemic in British Columbia
